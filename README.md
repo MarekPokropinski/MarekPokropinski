@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marek Pokropinski
-- 👀 I’m interested in machine learning and web development
+- 👀 I’m Artificial Intelligence developer 
 - 🌱 I'm graduate of Wrocław Uniwersity of Science and Technology 
 
 <!---
